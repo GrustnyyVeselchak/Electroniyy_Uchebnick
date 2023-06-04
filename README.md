@@ -20,6 +20,10 @@
     ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page3.3.PNG)
     ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page3.4.PNG)
     - page4.html - Вязание мелких изделий
+    ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page4.1.PNG)
+    ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page4.2.PNG)
+    ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page4.3.PNG)
+    ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page4.4.PNG)
 
     - style.css - файл содержащий стилизацию электронного учебника. Отвечает за визуальную часть
     
