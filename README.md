@@ -1,5 +1,10 @@
 # Electroniyy_Uchebnick
 # Данный репозиторий предназначен для хранения продукта курсовой раоботы студентки группы ТИ-20 Ильиной Юлии, а именно Электронный учебник
+## Если вы хотите скачать к себе электронный учебник и запустить у себя на устройстве:
+   - скачиваете проект
+   ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/instruction.PNG)
+   - запускаете файл по дериктории: ./Electroniyy_Uchebnick/public_html/index.html
+
  ##Карта репозитории:
  - /public_html - папка со страницами электронной книги
     - index.html - главная страница книги
