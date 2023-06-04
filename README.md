@@ -14,8 +14,11 @@
     ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page2.2.PNG)
     ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page2.3.PNG)
     ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page2.4.PNG)
-    ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page2.4.PNG)
     - page3.html - Основные приемы вязания крчюком
+    ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page3.1.PNG)
+    ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page3.2.PNG)
+    ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page3.3.PNG)
+    ![alt text](https://github.com/GrustnyyVeselchak/Electroniyy_Uchebnick/blob/main/screenshots/page3.4.PNG)
     - page4.html - Вязание мелких изделий
 
     - style.css - файл содержащий стилизацию электронного учебника. Отвечает за визуальную часть
